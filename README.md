@@ -17,7 +17,7 @@
 
 <br />
 
-### Connect with me:
+### If you decide to contact me:
 [<img align="left" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"/>][Instagram]
 [<img align="left" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_VK-256.png"/>][Vk]
 [<img align="left" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-256.png"/>][Telegram]
