@@ -5,7 +5,7 @@
 ## I'm a student of Financial University under the Government of the Russian Federation
 
 - ⚡ Working at [telegram bot](https://github.com/Nps-rf/AiogramTB)
-- 🌱 I’m currently learning Python...
+- 🌱 I’m currently learning Python and SQL...
 - 🥅 2022 Goals: I'm looking for the first job 
 
 
