@@ -4,6 +4,8 @@
 
 ## I'm a student of Financial University under the Government of the Russian Federation
 
+[![Codewars badge](https://www.codewars.com/users/Nps-rf/badges/large)](https://www.codewars.com/users/Nps-rf)
+
 - ⚡ Working at [telegram bot](https://github.com/Nps-rf/AiogramTB)
 - 🌱 I’m currently learning Python and Java...
 - 🥅 2022 Goals: I'm looking for the first job 
