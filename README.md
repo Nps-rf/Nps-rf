@@ -29,6 +29,8 @@
 [<img align="left" width="24px" src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-256.png"/>][Discord]
 <br />
 
+### Streak stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nps-rf&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ### Activity
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nps-rf&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
