@@ -33,9 +33,6 @@
 ### Streak stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nps-rf&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-### Activity
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nps-rf&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 [Github]: https://github.com/github
 [instagram]: https://www.instagram.com/nps_rf/
