@@ -37,6 +37,10 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nps-rf&show_icons=true&theme=tokyonight) 
 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nps_rf">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nps_rf"> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Nps_rf&show_icons=true&theme=gotham"> -->
+
 
 [Github]: https://github.com/github
 [instagram]: https://www.instagram.com/nps_rf
