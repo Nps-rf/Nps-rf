@@ -6,9 +6,8 @@
 
 [![Codewars badge](https://www.codewars.com/users/Nps-rf/badges/large)](https://www.codewars.com/users/Nps-rf)
 
-- ⚡ Working at [university's telegram bot](https://github.com/PI21-7/FA/tree/master/Course_1/Telegram_Bot)
-- 🌱 I’m currently learning Python and Java...
-- 🥅 2022 Goals: I'm looking for the first job 
+- ⚡ I am currently a Python backend intern
+- 🌱 I’m currently learning Python and JavaScript
 
 
 ### Languages and Tools:
