@@ -6,8 +6,8 @@
 
 [![Codewars badge](https://www.codewars.com/users/Nps-rf/badges/large)](https://www.codewars.com/users/Nps-rf)
 
-- ⚡ I am currently a Python backend intern
-- 🌱 I’m currently learning Python and JavaScript
+- ⚡ I am currently a Junior Python Developer
+- 🌱 I’m learning Python and JavaScript
 
 
 ### Languages and Tools:
