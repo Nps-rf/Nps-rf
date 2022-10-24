@@ -11,6 +11,7 @@
 
 
 ### Languages and Tools:
+[<img align="left" width="24px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png"/>][JS]
 [<img align="left" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>][Python]
 <!-- [<img align="left" width="25px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-256.png"/>][Java] --> 
 [<img align="left" width="25px" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-256.png"/>][Linux]
@@ -53,5 +54,6 @@
 [cmd]: https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands
 [Linux]: https://www.linux.org
 [Java]: https://www.java.com
+[JS]: https://developer.mozilla.org/ru/docs/Web/JavaScript
 [SQL]: https://en.wikipedia.org/wiki/SQL
 [Docker]: https://www.docker.com
