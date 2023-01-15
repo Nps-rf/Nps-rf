@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234300F7&size=25&height=55&lines=Hi+there%2C+I'm+Nikolai+Pikalov;Or...;Nps-rf)](https://git.io/typing-svg)
 
-## I'm a student of Financial University under the Government of the Russian Federation
+## Backend developer who googles solutions for the frontend :)
 
 [![Codewars badge](https://www.codewars.com/users/Nps-rf/badges/large)](https://www.codewars.com/users/Nps-rf)
 
