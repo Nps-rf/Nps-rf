@@ -6,7 +6,7 @@
 
 [![Codewars badge](https://www.codewars.com/users/Nps-rf/badges/large)](https://www.codewars.com/users/Nps-rf)
 
-- ⚡ I am currently a Junior Full-Stack Developer
+- ⚡ I am currently a Full-Stack Developer
 - 🌱 I’m learning Python and JavaScript
 
 
