@@ -8,6 +8,7 @@
 
 - ⚡ I am currently a Full-Stack Developer
 - 🌱 I’m learning Python and JavaScript
+- 😒 Stuck on Java socket server
 
 
 ### Languages and Tools:
