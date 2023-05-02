@@ -7,8 +7,8 @@
 [![Codewars badge](https://www.codewars.com/users/Nps-rf/badges/large)](https://www.codewars.com/users/Nps-rf)
 
 - ⚡ I am currently a Full-Stack Developer
-- 🌱 I’m learning Python and JavaScript
-- 😒 Stuck on Java socket server
+- 🌱 I’m learning C++ and JavaScript
+- 😒 Stuck on C++ & Go
 
 
 ### Languages and Tools:
