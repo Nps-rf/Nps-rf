@@ -1,4 +1,6 @@
-<img src="https://cdn2.iconfinder.com/data/icons/cat-power/256/cat_drunk.png" align="right"/>  
+<img src="https://media.tenor.com/Dr5sZCODJ50AAAAi/mochi-mochi-hello-grey-cat-mochi-mochi.gif" align="right"/>
+
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234300F7&size=25&height=55&lines=Hi+there%2C+I'm+Nikolai+Pikalov;Or...;Nps-rf)](https://git.io/typing-svg)
 
@@ -10,28 +12,71 @@
 - 🌱 I’m learning C++ and JavaScript
 - 😒 Stuck on C++ & Go
 
+<details> 
+  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-### Languages and Tools:
-[<img align="left" width="24px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png"/>][JS]
-[<img align="left" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>][Python]
-<!-- [<img align="left" width="25px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-256.png"/>][Java] --> 
-[<img align="left" width="25px" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-256.png"/>][Linux]
-[<img align="left" width="25px" src="https://cdn1.iconfinder.com/data/icons/hawcons/32/700048-icon-89-document-file-sql-256.png"/>][SQL]
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][HTML5]
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>][Github]
-[<img align="left" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png"/>][Git]
-[<img align="left" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_docker-256.png"/>][Docker]
-[<img align="left" width="25px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/205_Markdown_logo_logos-256.png"/>][Markdown]
-[<img align="left" width="24px" src="https://cdn2.iconfinder.com/data/icons/ecqlipse2/CMD.png"/>][cmd]
+  <h3>👨‍💻 Programming and Markup Languages</h3>
 
-<br />
+  <p>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Arst"><img alt="Restructured Text" src="https://img.shields.io/badge/Restructured Text-3a4148.svg?logo=readthedocs&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+      <a href="#"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white"></a>
 
-### If you decide to contact me:
-[<img align="left" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png"/>][Instagram]
-[<img align="left" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_VK-256.png"/>][Vk]
-[<img align="left" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-icons-33/512/Telegram-256.png"/>][Telegram]
-[<img align="left" width="24px" src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-256.png"/>][Discord]
-<br />
+  </p>
+
+  <h3>🧰 Frameworks and Libraries</h3>
+
+  <p>
+      <a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
+      <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+      <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
+      <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
+      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white"></a>
+      <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white"></a>
+  </p>
+
+  <h3>🗄️ Databases and Cloud Hosting</h3>
+
+  <p>
+      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+      <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+  </p>
+
+  <h3>💻 Software and Tools</h3>
+
+  <p>
+      <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
+      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+      <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+      <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+      <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-23B59A.svg?logo=webstorm&logoColor=white"></a>
+      <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-21A366.svg?logo=pycharm&logoColor=white"></a>
+      <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
+      <a href="#"><img alt="GoLand" src="https://img.shields.io/badge/GoLand-3498DB.svg?logo=go&logoColor=white"></a>
+      <a href="#"><img alt="DataGrip" src="https://img.shields.io/badge/DataGrip-EF8336.svg?logo=datagrip&logoColor=white"></a>
+      <a href="#"><img alt="CLion" src="https://img.shields.io/badge/CLion-139A56.svg?logo=clion&logoColor=white"></a>
+
+
+  </p>
+</details>
 
 ### Streak stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nps-rf&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
@@ -42,9 +87,6 @@
 
 
 [Github]: https://github.com/github
-[instagram]: https://www.instagram.com/nps_rf
-[Vk]: https://vk.com/4doors_morewhores
-[Telegram]: https://t.me/Nps_rf
 [Discord]:  https://discordapp.com/users/303189106274467851
 [Python]: https://www.python.org
 [HTML5]: https://html.com/html5
