@@ -11,6 +11,8 @@
 - ⚡ I am currently a Full-Stack Developer
 - 🌱 I’m learning C++ and JavaScript
 - 😒 Stuck on C++ & Go
+- 🏆 [Top 1.2% in overall rank rating (at Codewars)](https://www.codewars.com/users/Nps-rf)
+- 💪 [Top 13.7% in JavaScript (at Codewars)](https://www.codewars.com/users/Nps-rf)
 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
