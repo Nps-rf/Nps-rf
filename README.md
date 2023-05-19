@@ -8,7 +8,7 @@
 
 [![Codewars badge](https://www.codewars.com/users/Nps-rf/badges/large)](https://www.codewars.com/users/Nps-rf)
 
-- ⚡ I am currently a Full-Stack Developer
+- ⚡ I am currently a Custom Developer at Pravo.tech
 - 🌱 I’m learning C++ and JavaScript
 - 😒 Stuck on C++ & Go
 - 🏆 [Top 1.2% in overall rank rating (at Codewars)](https://www.codewars.com/users/Nps-rf)
