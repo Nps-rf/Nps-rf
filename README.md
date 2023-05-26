@@ -15,6 +15,42 @@
 - 💪 [Top 13.7% in JavaScript (at Codewars)](https://www.codewars.com/users/Nps-rf)
 
 <details> 
+  <summary><h2>🖥️ My Personal Computer Specs</h2></summary>
+  <h3>💻 Processor</h3>
+  <p>
+      <a href="#"><img alt="Processor" src="https://img.shields.io/badge/12th_Gen_Intel®_Core™_i9--12900KF-0071C5.svg?logo=intel&logoColor=white"></a>
+  </p>
+<h3>🔖 RAM</h3>
+<p>
+    <a href="#"><img alt="RAM" src="https://img.shields.io/badge/Kingston_Fury_Beast_KF560C40BBK2--32_DDR5-003A6B.svg?logo=kingston&logoColor=white"></a>
+    <a href="#"><img alt="MemorySize" src="https://img.shields.io/badge/2x_16GB-FF6347.svg?logo=memory&logoColor=white"></a>
+    <a href="#"><img alt="MemorySpeed" src="https://img.shields.io/badge/6000_MHz-FF6347.svg?logo=memory&logoColor=white"></a>
+    <a href="#"><img alt="MemoryType" src="https://img.shields.io/badge/DIMM-FF6347.svg?logo=memory&logoColor=white"></a>
+</p>
+  <h3>🎮 Video Card</h3>
+  <p>
+      <a href="#"><img alt="VideoCard" src="https://img.shields.io/badge/Nvidia_Geforce_RTX_2060_SUPER-76B900.svg?logo=nvidia&logoColor=white"></a>
+  </p>
+  <h3>🔌 Motherboard</h3>
+  <p>
+      <a href="#"><img alt="Motherboard" src="https://img.shields.io/badge/GIGABYTE_Z790_GAMING_X-FFDD00.svg?logo=gigabyte&logoColor=black"></a>
+  </p>
+  <h3>🖥️ Monitor</h3>
+  <p>
+      <a href="#"><img alt="Monitor" src="https://img.shields.io/badge/ASUS_ProArt_PA278QV-1691D6.svg?logo=asus&logoColor=white"></a>
+  </p>
+  <h3>🎞️ Screen Specifications</h3>
+  <p>
+      <a href="#"><img alt="Resolution" src="https://img.shields.io/badge/Resolution-2560x1440-blue"></a>
+      <a href="#"><img alt="ScreenRatio" src="https://img.shields.io/badge/Screen_Ratio-16%3A9-blue"></a>
+      <a href="#"><img alt="PanelType" src="https://img.shields.io/badge/Panel_Type-IPS-blue"></a>
+      <a href="#"><img alt="RefreshRate" src="https://img.shields.io/badge/Refresh_Rate-75Hz-blue"></a>
+      <a href="#"><img alt="Brightness" src="https://img.shields.io/badge/Brightness-350cd/m2-blue"></a>
+      <a href="#"><img alt="ResponseTime" src="https://img.shields.io/badge/Response_Time-GTG_5_ms-blue"></a>
+  </p>
+</details>
+
+<details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
