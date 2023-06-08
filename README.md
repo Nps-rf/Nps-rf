@@ -9,8 +9,7 @@
 [![Codewars badge](https://www.codewars.com/users/Nps-rf/badges/large)](https://www.codewars.com/users/Nps-rf)
 
 - ⚡ I am currently a Custom Developer at Pravo.tech
-- 🌱 I’m learning C++ and JavaScript
-- 😒 Stuck on C++ & Go
+- 💀 I’m suffering from deadlines
 - 🏆 [Top 1.2% in overall rank rating (at Codewars)](https://www.codewars.com/users/Nps-rf)
 - 💪 [Top 13.7% in JavaScript (at Codewars)](https://www.codewars.com/users/Nps-rf)
 
