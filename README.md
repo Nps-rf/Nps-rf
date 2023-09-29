@@ -117,7 +117,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nps_rf">
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nps_rf"> -->
-[![wakatime](https://wakatime.com/badge/user/944aa6e3-ff25-43c1-8731-0c93263b9189.svg)](https://wakatime.com/@944aa6e3-ff25-43c1-8731-0c93263b9189)
+<!-- [![wakatime](https://wakatime.com/badge/user/944aa6e3-ff25-43c1-8731-0c93263b9189.svg)](https://wakatime.com/@944aa6e3-ff25-43c1-8731-0c93263b9189) -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Nps_rf&show_icons=true&theme=gotham"> -->
 
