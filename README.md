@@ -79,6 +79,8 @@
       <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
       <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+      <a href="#"><img src="https://img.shields.io/badge/React_Native%20-%2320232a.svg?&logo=react&logoColor=%2361DAFB"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&logo=SASS&logoColor=white"/></a>
       <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white"></a>
   </p>
 
