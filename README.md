@@ -114,13 +114,6 @@
   </p>
 </details>
 
-<details> 
-    <p>
-  <summary><h2>🙋 Community</h2></summary>
-    <a href="https://stackoverflow.com/users/16471823/nps-rf"><img src="https://stackoverflow.com/users/flair/16471823.png" width="208" height="58" alt="profile for Nps-rf at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Nps-rf at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-    </p>
-</details>
-
 ### Streak stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nps-rf&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
