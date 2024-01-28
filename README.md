@@ -26,7 +26,7 @@
 </p>
   <h3>🎮 Video Card</h3>
   <p>
-      <a href="#"><img alt="VideoCard" src="https://img.shields.io/badge/Nvidia_Geforce_RTX_3080_TI-76B900.svg?logo=nvidia&logoColor=white"></a>
+      <a href="#"><img alt="VideoCard" src="https://img.shields.io/badge/Nvidia_Geforce_RTX_4070_TI-76B900.svg?logo=nvidia&logoColor=white"></a>
   </p>
   <h3>🔌 Motherboard</h3>
   <p>
