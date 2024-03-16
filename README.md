@@ -8,7 +8,7 @@
 
 [![Codewars badge](https://www.codewars.com/users/Nps-rf/badges/large)](https://www.codewars.com/users/Nps-rf)
 
-- ⚡ I am currently a Custom Developer at Pravo.tech
+- ⚡ I am currently a Node.js Backend Developer at Pravo.tech
 - 💀 I’m suffering from deadlines
 
 <details> 
