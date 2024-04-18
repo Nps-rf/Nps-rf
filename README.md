@@ -20,8 +20,8 @@
 <h3>🔖 RAM</h3>
 <p>
     <a href="#"><img alt="RAM" src="https://img.shields.io/badge/Kingston_Fury_Beast_KF560C40BBK2--32_DDR5-003A6B.svg?logo=kingston&logoColor=white"></a>
-    <a href="#"><img alt="MemorySize" src="https://img.shields.io/badge/2x_16GB-FF6347.svg?logo=memory&logoColor=white"></a>
-    <a href="#"><img alt="MemorySpeed" src="https://img.shields.io/badge/6000_MHz-FF6347.svg?logo=memory&logoColor=white"></a>
+    <a href="#"><img alt="MemorySize" src="https://img.shields.io/badge/4x_16GB-FF6347.svg?logo=memory&logoColor=white"></a>
+    <a href="#"><img alt="MemorySpeed" src="https://img.shields.io/badge/5600_MHz-FF6347.svg?logo=memory&logoColor=white"></a>
     <a href="#"><img alt="MemoryType" src="https://img.shields.io/badge/DIMM-FF6347.svg?logo=memory&logoColor=white"></a>
 </p>
   <h3>🎮 Video Card</h3>
