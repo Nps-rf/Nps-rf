@@ -8,7 +8,6 @@
 
 [![Codewars badge](https://www.codewars.com/users/Nps-rf/badges/large)](https://www.codewars.com/users/Nps-rf)
 
-- <a href="#"><img style="width: 25px;" alt="BetBoom" src="https://img.championat.com/team/logo/16524375511129348503.png"></a> I am currently a Backend Developer at BetBoom
 - 💀 I’m suffering from deadlines
 
 <details> 
