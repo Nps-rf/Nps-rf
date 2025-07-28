@@ -114,7 +114,7 @@
 ### Streak stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nps-rf&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nps_rf">
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nps_rf"> -->
 
 [Github]: https://github.com/github
 [Discord]:  https://discordapp.com/users/303189106274467851
